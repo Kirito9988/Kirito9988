@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tarun.1999thakur33@gmail.com
 - ⚡ Fun fact: I am an anime nerd
 -->
+
+https://github-readme-streak-stats.herokuapp.com/?user=Kirito9988
