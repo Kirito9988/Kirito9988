@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tarun.1999thakur33@gmail.com
 - ⚡ Fun fact: I am an anime nerd
 -->
+<div>
 💻 Tech Stack:
 Languages
 
@@ -47,7 +48,7 @@ Hosting & Servers
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
-
+</div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kirito9988&show_icons=true&locale=en" alt="Kirito9988" />
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kirito9988&theme=dark&background=000000)](https://git.io/streak-stats)
