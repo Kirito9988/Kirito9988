@@ -1,7 +1,7 @@
 ### Hello there 👋
-- 🔭 I’m currently working on an Mobile App for skilled worked to find jobs easier and faster 
+- 🔭 I’m currently working on web and mobile application to make people life easier.
 - 🌱 I’m currently learning FullStack Development
-- 👯 I’m looking to collaborate on TEKK
+- 👯 I’m looking to collaborate on various projects
 - 🤔 I’m looking for help with Backend 
 - 💬 Ask me about anythything and if I can help I will
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tarun-thakur99/" rel="nofollow noreferrer">
